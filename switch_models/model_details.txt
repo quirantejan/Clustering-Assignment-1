@@ -1,0 +1,3 @@
+numerator: ~ age
+denominator: ~ age + x1 + x3
+model_type: te_stats_glm_logit
